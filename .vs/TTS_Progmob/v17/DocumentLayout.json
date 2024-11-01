@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Tugas Kuliah\\Pemrograman Mobile\\TTS_Progmob\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{418E4CF6-222B-4FD7-B332-448F92575AAC}|TTS_Progmob.csproj|e:\\tugas kuliah\\pemrograman mobile\\tts_progmob\\viewmodel\\myviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418E4CF6-222B-4FD7-B332-448F92575AAC}|TTS_Progmob.csproj|solutionrelative:viewmodel\\myviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418E4CF6-222B-4FD7-B332-448F92575AAC}|TTS_Progmob.csproj|e:\\tugas kuliah\\pemrograman mobile\\tts_progmob\\tts_progmob.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{418E4CF6-222B-4FD7-B332-448F92575AAC}|TTS_Progmob.csproj|solutionrelative:tts_progmob.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418E4CF6-222B-4FD7-B332-448F92575AAC}|TTS_Progmob.csproj|e:\\tugas kuliah\\pemrograman mobile\\tts_progmob\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418E4CF6-222B-4FD7-B332-448F92575AAC}|TTS_Progmob.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyViewModel.cs",
+              "DocumentMoniker": "E:\\Tugas Kuliah\\Pemrograman Mobile\\TTS_Progmob\\ViewModel\\MyViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\MyViewModel.cs",
+              "ToolTip": "E:\\Tugas Kuliah\\Pemrograman Mobile\\TTS_Progmob\\ViewModel\\MyViewModel.cs",
+              "RelativeToolTip": "ViewModel\\MyViewModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA+wA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:49:24.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\Tugas Kuliah\\Pemrograman Mobile\\TTS_Progmob\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "E:\\Tugas Kuliah\\Pemrograman Mobile\\TTS_Progmob\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:42:43.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TTS_Progmob",
+              "DocumentMoniker": "E:\\Tugas Kuliah\\Pemrograman Mobile\\TTS_Progmob\\TTS_Progmob.csproj",
+              "RelativeDocumentMoniker": "TTS_Progmob.csproj",
+              "ToolTip": "E:\\Tugas Kuliah\\Pemrograman Mobile\\TTS_Progmob\\TTS_Progmob.csproj",
+              "RelativeToolTip": "TTS_Progmob.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-01T15:41:49.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
